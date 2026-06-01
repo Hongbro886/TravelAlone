@@ -14,6 +14,13 @@ export default defineUserConfig({
           'PrePare/a.md',
           'PrePare/b.md'
         ]
+      },
+      {
+        text :"准备",
+        children:[
+          'Preparing/a.md',
+          'Preparing/b.md'
+        ]
       }
     ]
 
