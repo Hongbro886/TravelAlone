@@ -20,7 +20,8 @@ export default defineUserConfig({
         children:[
           'Preparing/a.md',
           'Preparing/c.md',
-          'Preparing/b.md'
+          'Preparing/b.md',
+          'Preparing/d.md'
         ]
       }
     ]
