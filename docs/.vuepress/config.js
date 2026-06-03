@@ -19,6 +19,7 @@ export default defineUserConfig({
         text :"准备",
         children:[
           'Preparing/a.md',
+          'Preparing/c.md',
           'Preparing/b.md'
         ]
       }
