@@ -23,6 +23,13 @@ export default defineUserConfig({
           'Preparing/b.md',
           'Preparing/d.md'
         ]
+      },
+      {
+        text :"行程中",
+        children:[
+          'OnGoing/a.md',
+
+        ]
       }
     ]
 
