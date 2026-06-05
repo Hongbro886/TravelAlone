@@ -11,8 +11,7 @@ export default defineUserConfig({
       {
         text :"前语",
         children:[
-          'PrePare/a.md',
-          'PrePare/b.md'
+          'PrePare/a.md'
         ]
       },
       {
