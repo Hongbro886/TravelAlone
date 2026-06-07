@@ -15,12 +15,6 @@ export default defineUserConfig({
   theme: defaultTheme({
     sidebar: [
       {
-        text :"前语",
-        children:[
-          'PrePare/a.md'
-        ]
-      },
-      {
         text :"准备",
         children:[
           'Preparing/a.md',
